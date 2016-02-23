@@ -1,6 +1,6 @@
 name: James Mathis Kane
 favicon: null
-layout_spectrum: 0.35668754507787526
+layout_spectrum: 0.32407
 typography_spectrum: 0.6030682551208884
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.7757504067849368
+  brandStrength: 0
   lightness: 0.29398850933648646
-  saturation: 0.03664609440602362
+  saturation: 0
   rhythmicContrast: 0.5380411949008703
 purpose: []
