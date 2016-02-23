@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[James Mathis Kane]]></title>
+        <description><![CDATA[James Mathis Kane]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 03:45:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hush Now My Back Wings]]></title>
+            <description><![CDATA[<article><h1>Hush Now My Back Wings</h1><p>Oil on canvas, 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d02fd14a63cc5a58880e70ee57056c6e5e0da87.jpg"></article>]]></description>
+            <link>undefinedhush-now-my-back-wings/index.html</link>
+            <guid isPermaLink="false">3d1d3865-2ee4-4174-9bcf-88d1297930e8</guid>
+            <pubDate>Tue, 23 Feb 2016 03:45:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
