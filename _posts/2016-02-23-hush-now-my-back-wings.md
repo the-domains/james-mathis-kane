@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Oil on canvas, 2015'
-datePublished: '2016-03-29T00:19:15.346Z'
-dateModified: '2016-03-29T00:19:15.008Z'
+datePublished: '2016-03-29T00:23:36.731Z'
+dateModified: '2016-03-29T00:22:44.389Z'
 title: Hush Now My Back Wings
 author: []
+sourcePath: _posts/2016-02-23-hush-now-my-back-wings.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-hush-now-my-back-wings.md
-published: true
 url: hush-now-my-back-wings/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b494d10-2ae8-4a7f-9b25-8a23ade0d146.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d02fd14a63cc5a58880e70ee57056c6e5e0da87.jpg)
